@@ -4,28 +4,28 @@ body {
       background: #999;
       color: white;
       text-align: center;
-    }
-
-    header {
+}
+header {
       background-color: aqua;
       padding: 10px;
       text-align: center;
       color: black;
-    }
+}
+    
 
-    header img {
+header img {
       vertical-align: middle;
-    }
+}
 
-    nav {
+nav {
       display: flex;
       justify-content: center;
       gap: 20px;
       background-color: #665d5d;
       padding: 10px;
-    }
+}
 
-    nav a {
+nav a {
       color: aliceblue;
       text-decoration: none;
       font-weight: bold;
@@ -33,48 +33,48 @@ body {
       padding: 8px;
       border-radius: 10px;
       font-family: Arial, Helvetica, sans-serif;
-    }
+}
 
-    nav a:hover {
+nav a:hover {
       color: black;
       background-color: chartreuse;
-    }
+}
     
-    iframe {
+iframe {
       border: 5px solid white;
-    }
+}
 
-    section {
+section {
       padding: 20px;
       max-width: 800px;
       margin: auto;
       background: #888;
       margin-top: 10px;
-    }
+}
 
-    h2 {
+h2 {
       border-bottom: 2px solid white;
       padding-bottom: 5px;
-    }
+}
 
-    .images img {
+.images img {
       width: 30%;
       margin: 5px;
       border: 2px solid white;
-    }
+}
 
-    .video-placeholder {
+.video-placeholder {
       background: #ddd;
       height: 100px;
       margin-bottom: 10px;
-    }
+}
 
-    footer {
+footer {
       background: #665d5d;
       text-align: center;
       padding: 10px;
       color: white;
-    }
-    footer a {
+}
+footer a {
       color: white;
-    }
+}
